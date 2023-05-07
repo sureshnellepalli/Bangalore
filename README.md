@@ -1,5 +1,5 @@
 # Bangalore
-Public Repo for Test
+Public Repo for Challenge
 
 
 Challenge #1
